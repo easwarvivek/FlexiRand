@@ -1,1 +1,1 @@
-# FlexiRand
+# Priv-VRF Implementation
